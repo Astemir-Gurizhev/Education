@@ -1,1 +1,1 @@
-# edu_landing
+Education
